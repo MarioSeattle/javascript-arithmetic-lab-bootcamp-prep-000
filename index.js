@@ -1,13 +1,12 @@
 function add(a,b){
   
-return a + b 
+return a + b; 
   
 }
 
-function subtract(){
+function subtract(a,b){
   
-  var subtractNumber = 1 - 1;
-  
-  console.log(subtractNumber)
+ return a - b; 
+
   
 }
