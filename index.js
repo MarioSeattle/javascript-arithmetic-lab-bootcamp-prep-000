@@ -5,3 +5,11 @@ function add(){
   console.log(addNumber)
   
 }
+
+function subtract(){
+  
+  var subtractNumber = 1 - 1;
+  
+  console.log(subtractNumber)
+  
+}
