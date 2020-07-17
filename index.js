@@ -1,8 +1,6 @@
-function add(){
+function add(a,b){
   
-  var addNumber = 1 + 1;
-  
-  console.log(addNumber)
+return a + b 
   
 }
 
